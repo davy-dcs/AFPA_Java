@@ -1,0 +1,5 @@
+LivreNumerique{titre='test', auteur='testtt'}
+LivrePapier{titre='tdtd', auteur='tetdt'}
+LivreNumerique{titre='dzqe', auteur='dqzg'}
+LivrePapier{titre='gserg', auteur='gserg'}
+LivreNumerique{titre='fehrgf', auteur='svgtgs'}

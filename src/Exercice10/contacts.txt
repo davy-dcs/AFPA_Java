@@ -1,0 +1,2 @@
+ContactSimple{nom='fsdfv', numeroTelephone='5056'}
+ContactSimple{nom='math', numeroTelephone='0540540504'}

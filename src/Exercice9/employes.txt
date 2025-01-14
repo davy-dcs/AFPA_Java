@@ -1,0 +1,8 @@
+EmployeTempsPartiel{nom=MathildenombreHeures=130, salaireHoraire=30.0, salaire=3900.0}
+EmployeTempsPlein{nom=davysalaire=1500.0}
+EmployeTempsPartiel{nom=romeo, nombreHeures=140, salaireHoraire=10.0, salaire=1400.0}
+EmployeTempsPartiel{nom=tim, nombreHeures=130, salaireHoraire=40.0, salaire=5200.0}
+EmployeTempsPlein{nom=mathsalaire=1500.0}
+EmployeTempsPlein{nom=davysalaire=1300.0}
+EmployeTempsPartiel{nom=Math, nombreHeures=50, salaireHoraire=4.0, salaire=200.0}
+EmployeTempsPlein{nom=davy, salaire=9000.0}

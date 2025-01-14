@@ -1,0 +1,3 @@
+Objectif : Vérifier si un mot donné est présent dans un fichier.
+Créez un fichier search.txt contenant du texte.
+Écrivez un programme qui demande à l'utilisateur un mot à rechercher dans le fichier et affiche "Mot trouvé" ou "Mot non trouvé".
